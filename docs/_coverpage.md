@@ -1,10 +1,10 @@
 <!-- _coverpage.md -->
 
-![logo](_media/icon.svg)
+![](D:\机器人竞赛\docsifynet\docs\picture\DSC00948.jpg)
 
-# docsify <small>3.5</small>
+# 工业机器人训练手册 <small>0.1</small>
 
-> 一个神奇的文档网站生成器。
+> ABB IRB120工业机器人速查文档
 
 - 简单、轻便 (压缩后 ~21kB)
 - 无需生成 html 文件
