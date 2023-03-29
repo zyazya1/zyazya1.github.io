@@ -1,7 +1,3 @@
----
-typora-copy-images-to: ./picture
----
-
 <!-- docs/_sidebar.md -->
 
 # 目录

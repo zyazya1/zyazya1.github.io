@@ -1,13 +1,15 @@
 <!-- _coverpage.md -->
 
-![DSC00948](D:\机器人竞赛\docsifynet\docs\picture\DSC00948.jpg)
+![coverpage](D:\机器人竞赛\docsifynet\docs\picture\DSC00948.jpg)
 
 # 工业机器人训练手册 <small>0.1</small>
 
 > ABB IRB120工业机器人速查文档
 
-- 简单、轻便 (压缩后 ~21kB)
-- 无需生成 html 文件
-- 众多主题
+
+
+[前言](guide)
+
+
 
 这是工业机器人网站
