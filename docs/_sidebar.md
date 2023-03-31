@@ -52,18 +52,18 @@
 
 ### （2）赋值指令
 
-1. 基本用法
+1. [赋值指令](pages\1ds01基础\1.3ABB程序基础\1.3.2赋值指令\1.3.2赋值指令.md)
 
 ### 	（3）程序流程指令
 
-1. if判断
-2. test判断
-3. for循环
-4. while循环
-5. goto与label跳转
-6. waittime等待时间
-7. compact if
-8. waituntil
+1. [if判断](pages\1ds01基础\1.3ABB程序基础\1.3.3程序流程指令\1.3.3.1if判断.md)
+2. [test判断](pages\1ds01基础\1.3ABB程序基础\1.3.3程序流程指令\1.3.3.2test判断.md)
+3. [for循环](pages\1ds01基础\1.3ABB程序基础\1.3.3程序流程指令\1.3.3.3for循环.md)
+4. [while循环](pages\1ds01基础\1.3ABB程序基础\1.3.3程序流程指令\1.3.3.4while循环.md)
+5. [goto与label跳转](pages\1ds01基础\1.3ABB程序基础\1.3.3程序流程指令\1.3.3.5goto与label跳转.md)
+6. [waittime等待时间](pages\1ds01基础\1.3ABB程序基础\1.3.3程序流程指令\1.3.3.6waittime等待时间.md)
+7. [compact if](pages\1ds01基础\1.3ABB程序基础\1.3.3程序流程指令\1.3.3.7compactif.md)
+8. [waituntil](pages\1ds01基础\1.3ABB程序基础\1.3.3程序流程指令\1.3.3.8waituntil.md)
 
 ### 	（4）输入输出指令
 
