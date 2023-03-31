@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![coverpage](D:\机器人竞赛\docsifynet\docs\picture\DSC00948.jpg)
+<img src="picture\DSC00948.jpg" alt="coverpage" style="zoom: 5%;" />
 
 # 工业机器人训练手册 <small>0.1</small>
 
@@ -8,7 +8,7 @@
 
 
 
-[前言](guide)
+[**>>快速开始**](guide)
 
 
 
