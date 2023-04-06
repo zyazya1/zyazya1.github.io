@@ -69,7 +69,7 @@
 
 1. [IO信号简介](pages\1ds01基础\1.3ABB程序基础\1.3.4输入输出指令\1.3.4.1IO信号简介.md)
 2. [工作站输入输出信号表](pages\1ds01基础\1.3ABB程序基础\1.3.4输入输出指令\1.3.4.2工作站输入输出信号表.md)
-3. [IO信号相关指令](pages\1ds01基础\1.3ABB程序基础\1.3.4输入输出指令\1.3.4.3IO信号使用.md)
+3. [IO信号相关指令](pages\1ds01基础\1.3ABB程序基础\1.3.4输入输出指令\1.3.4.3IO信号相关指令.md)
 4. [目前使用的部分信号](pages\1ds01基础\1.3ABB程序基础\1.3.4输入输出指令\1.3.4.4目前使用的部分信号.md)
 
 ### （5）例行程序调用指令
@@ -87,22 +87,24 @@
 
 ### （7）运动控制指令
 
-1. AccSet
-2. SingArea
-3. VelSet
+1. [AccSet](pages\1ds01基础\1.3ABB程序基础\1.3.7运动控制指令\1.3.7.1AccSet.md)
+2. [VelSet](pages\1ds01基础\1.3ABB程序基础\1.3.7运动控制指令\1.3.7.2VelSet.md)
+3. [ConfJ与ConfL](pages\1ds01基础\1.3ABB程序基础\1.3.7运动控制指令\1.3.7.3ConfJ与ConfL.md)
+4. [SingArea](pages\1ds01基础\1.3ABB程序基础\1.3.7运动控制指令\1.3.7.4SingArea.md)
+5. [PathResol](pages\1ds01基础\1.3ABB程序基础\1.3.7运动控制指令\1.3.7.5PathResol.md)
 
 ### （8）程序运行停止指令
 
-1. Break
-2. Exit
-3. Stop
-4. ExitCycle
+1. [Break](pages\1ds01基础\1.3ABB程序基础\1.3.8程序运行停止指令\1.3.8.1Break.md)
+2. [Exit](pages\1ds01基础\1.3ABB程序基础\1.3.8程序运行停止指令\1.3.8.2Exit.md)
+3. [Stop](pages\1ds01基础\1.3ABB程序基础\1.3.8程序运行停止指令\1.3.8.3Stop.md)
+4. [ExitCycle](pages\1ds01基础\1.3ABB程序基础\1.3.8程序运行停止指令\1.3.8.4ExitCycle.md)
 
 ### （9）计时指令
 
-1. ClkReset
-2. ClkStart
-3. ClkStop
+1. [ClkReset](pages\1ds01基础\1.3ABB程序基础\1.3.9计时指令\1.3.9.1ClkReset.md)
+2. [ClkStart](pages\1ds01基础\1.3ABB程序基础\1.3.9计时指令\1.3.9.2ClkStart.md)
+3. [ClkStop](pages\1ds01基础\1.3ABB程序基础\1.3.9计时指令\1.3.9.3ClkStop.md)
 
 ### （10）中断指令
 
